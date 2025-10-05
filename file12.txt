@@ -1,0 +1,7 @@
+Employee ID:12
+Employee Name     :jyo
+Father's Name     :yadav
+Employee Contact  :2434354646
+Email Information :jythfshfnsdnc
+Employee position :1
+Employee Salary   :2332443
